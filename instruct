@@ -1,0 +1,9 @@
+npm install -g @angular/cli@latest
+
+ng version
+
+new new app name
+ng g c components/name
+ng g s services/auth
+
+ npm install firebase
